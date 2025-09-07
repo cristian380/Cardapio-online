@@ -48,16 +48,11 @@ header nav ul li a {
 /* Banner */
 .banner {
   background: url("img/banner.jpg") no-repeat center center/cover;
-  font-size: 50;
-  font-family :Arial, Helvetica, sans-serif;
-  height: 80vh;
-  color: rgb(0, 0, 0);
+  height: 70vh;
   display: flex;
   flex-direction: column; /* Flexbox */
   justify-content: center;
   align-items: center;
-  text-align: center;
-  padding: 20px;
   margin-top: 80px; /* Espaço por causa do header fixo */
 }
 
